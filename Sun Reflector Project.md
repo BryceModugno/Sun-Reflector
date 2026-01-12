@@ -1,2 +1,2 @@
-# Sun-Reflector
+# Sun Reflector
 Reflects
