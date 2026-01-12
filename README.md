@@ -27,8 +27,7 @@ This project solves the problem of precisely reflecting sunlight onto a fixed ta
 
 ## Analysis
 - Derived azimuth/elevation equations
-- Angles verified in NX
-[View derivations →](design/derivations.pdf)
+[Derived azimuth/elevation equations →](design/derivations.pdf)
 
 ## CAD & Simulation
 ![CAD](media/CAD.png)
@@ -40,4 +39,4 @@ This project solves the problem of precisely reflecting sunlight onto a fixed ta
 - Manual assembly
 
 ## Results
-- Must be assembled and tested
+- Must be physically assembled and tested
