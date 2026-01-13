@@ -15,7 +15,7 @@ This project solves the problem of precisely reflecting sunlight onto a fixed ta
 <tr>
 <td width="50%" align="left" valign="top">
 
-<h2> Outer Frame Design </h2>
+<h3> Outer Frame Design </h3>
 
 <ul>
   <li>Bulky frame required</li>
