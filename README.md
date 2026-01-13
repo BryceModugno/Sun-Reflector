@@ -56,9 +56,29 @@ This project solves the problem of precisely reflecting sunlight onto a fixed ta
 </tr>
 </table>
 
-### Chosen Design
-- Independent azimuth/elevation control
-- Affordable 
+<table>
+<tr>
+<td width="50%" align="left" valign="top">
+
+<h3 align="center"> Rotating Base Design - Accepted </h3>
+<hr width="100%">
+
+<ul>
+  <li>Independent azimuth/elevation control</li>
+  <li>Affordable</li>
+  <li>3D printing manufacturing only</li>
+</ul>
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+<img src="Media/IMG_0979.jpeg" width="100%">
+<img src="Media/IMG_0980.jpeg" width="100%">
+<img src="Media/IMG_0981.jpeg" width="100%">
+
+</td>
+</tr>
+</table>
 
 ## Analysis
 [Derived azimuth/elevation equations →](design/derivations.pdf)
