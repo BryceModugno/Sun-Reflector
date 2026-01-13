@@ -2,7 +2,7 @@
 This project solves the problem of precisely reflecting sunlight onto a fixed target by calculating real-time azimuth and elevation angles and actuating a 2-axis mirror system.
 
 
-![Demo animation](Media/IMG_0989.gif)
+<td align="center" ![Demo animation](Media/IMG_0989.gif) /td>
 
 
 ## Requirements
@@ -15,7 +15,7 @@ This project solves the problem of precisely reflecting sunlight onto a fixed ta
 <tr>
 <td width="50%" align="left" valign="top">
 
-<h3 align="center"> Outer Frame Design </h3>
+<h3 align="center"> Outer Frame Design - Rejected </h3>
 <hr width="100%">
 
 <ul>
@@ -37,13 +37,13 @@ This project solves the problem of precisely reflecting sunlight onto a fixed ta
 <tr>
 <td width="50%" align="left" valign="top">
 
-<h3 align="center"> Linear Actuator Design </h3>
+<h3 align="center"> Linear Actuator Design - Rejected </h3>
 <hr width="100%">
 
 <ul>
   <li>Overly complicated joints</li>
   <li>Difficult angle control</li>
-  <li>Actuators are overkill and expensive</li>
+  <li>Actuators are excessively powerful and expensive</li>
 </ul>
 
 </td>
@@ -56,12 +56,7 @@ This project solves the problem of precisely reflecting sunlight onto a fixed ta
 </tr>
 </table>
 
-### Concept 2 – Failed
-- Overly complicated joints
-- Difficult angle control
-- Expensive
-
-### Final Design
+### Chosen Design
 - Independent azimuth/elevation control
 - Affordable 
 
