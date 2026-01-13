@@ -10,25 +10,26 @@ This project solves the problem of precisely reflecting sunlight onto a fixed ta
 - Operate year-round at fixed GPS coordinates
 - No obstruction above mirror surface
 
-## Concept 1 - Failed
 <table>
 <tr>
-<td width="50%"
-align="left">
-### Outer Frame Design
-- Bulky frame required
-- Frame blocks one axis of rotation  
-- Too much rotating mass
+<td width="50%" align="left" valign="top">
+
+<h3>Concept 1 - Failed Outer Frame Design</h3>
+
+<ul>
+  <li>Bulky frame required</li>
+  <li>Frame blocks one axis of rotation</li>
+  <li>Too much rotating mass</li>
+</ul>
 
 </td>
-<td width="50%">
+<td width="50%" align="center" valign="middle">
 
 <img src="Media/IMG_0989.gif" width="100%">
 
 </td>
 </tr>
 </table>
-
 
 ### Concept 1 – Failed
 - Bulky frame required
