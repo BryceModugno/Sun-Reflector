@@ -15,7 +15,9 @@ This project solves the problem of precisely reflecting sunlight onto a fixed ta
 <tr>
 <td width="50%" align="left" valign="top">
 
-<h3 align="center">Outer Frame Design</h3>
+<h3 align="center" style="margin-top:0; margin-bottom:4px;">
+  Outer Frame Design
+</h3>
 <hr width="60%" style="margin: 6px auto;">
 
 <ul>
