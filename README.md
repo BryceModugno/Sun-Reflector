@@ -11,7 +11,6 @@ This project solves the problem of precisely reflecting sunlight onto a fixed ta
 - No obstruction above mirror surface
 
 ## Concept 1 - Failed
-| Image | Description |
 |------|------------|
 | ![](Media/IMG_0989.gif) | test test test test test test test test test |
 
