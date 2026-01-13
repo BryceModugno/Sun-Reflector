@@ -37,7 +37,8 @@ This project solves the problem of precisely reflecting sunlight onto a fixed ta
 <tr>
 <td width="50%" align="left" valign="top">
 
-<h3> Linear Actuator Design </h3>
+<h3 align="center"> Linear Actuator Design </h3>
+<hr width="100%">
 
 <ul>
   <li>Overly complicated joints</li>
