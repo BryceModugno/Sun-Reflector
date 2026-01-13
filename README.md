@@ -14,7 +14,7 @@ This project solves the problem of precisely reflecting sunlight onto a fixed ta
 <table>
 <tr>
 <td width="50%">
-
+<td align="left">
 ### Outer Frame Design
 - Bulky frame required
 - Frame blocks one axis of rotation  
