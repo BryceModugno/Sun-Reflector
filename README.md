@@ -32,10 +32,27 @@ This project solves the problem of precisely reflecting sunlight onto a fixed ta
 </tr>
 </table>
 
-### Concept 1 – Failed
-- Bulky frame required
-- Frame blocks one axis of rotation
-- Too much rotating mass
+<table>
+<tr>
+<td width="50%" align="left" valign="top">
+
+<h3> Linear Actuator Design </h3>
+
+<ul>
+  <li>Overly complicated joints</li>
+  <li>Difficult angle control</li>
+  <li>Actuators are overkill and expensive</li>
+</ul>
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+<img src="Media/IMG_0965.jpeg" width="100%">
+<img src="Media/IMG_0966.jpeg" width="100%">
+
+</td>
+</tr>
+</table>
 
 ### Concept 2 – Failed
 - Overly complicated joints
