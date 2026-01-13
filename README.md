@@ -11,9 +11,24 @@ This project solves the problem of precisely reflecting sunlight onto a fixed ta
 - No obstruction above mirror surface
 
 ## Concept 1 - Failed
-|  |  |
-|------|------------|
-| ![](Media/IMG_0989.gif) | test test test test test test test test test |
+<table>
+<tr>
+<td width="50%">
+
+### Outer Frame Design
+- Bulky frame required
+- Frame blocks one axis of rotation  
+- Too much rotating mass
+
+</td>
+<td width="50%">
+
+<img src="Media/IMG_0989.gif" width="100%">
+
+</td>
+</tr>
+</table>
+
 
 ### Concept 1 – Failed
 - Bulky frame required
