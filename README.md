@@ -18,7 +18,7 @@ This project solves the problem of precisely reflecting sunlight onto a fixed ta
 <h3 align="center" style="margin-top:0; margin-bottom:4px;">
   Outer Frame Design
 </h3>
-<hr width="60%" style="margin: 6px auto;">
+<hr align="center" width="60%" style="margin: 6px auto;">
 
 <ul>
   <li>Bulky frame required</li>
