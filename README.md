@@ -26,7 +26,6 @@ This project solves the problem of precisely reflecting sunlight onto a fixed ta
 - Affordable 
 
 ## Analysis
-- Derived azimuth/elevation equations
 [Derived azimuth/elevation equations →](design/derivations.pdf)
 
 ## CAD & Simulation
