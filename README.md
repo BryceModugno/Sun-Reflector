@@ -10,11 +10,12 @@ This project solves the problem of precisely reflecting sunlight onto a fixed ta
 - Operate year-round at fixed GPS coordinates
 - No obstruction above mirror surface
 
+## Design Concepts
 <table>
 <tr>
 <td width="50%" align="left" valign="top">
 
-<h3>Concept 1 - Failed Outer Frame Design</h3>
+<h2> Outer Frame Design </h2>
 
 <ul>
   <li>Bulky frame required</li>
