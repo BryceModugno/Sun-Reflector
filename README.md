@@ -72,9 +72,8 @@ This project solves the problem of precisely reflecting sunlight onto a fixed ta
 </td>
 <td width="50%" align="center" valign="middle">
 
-<img src="Media/IMG_0979.jpeg" width="100%">
-<img src="Media/IMG_0980.jpeg" width="100%">
-<img src="Media/IMG_0981.jpeg" width="100%">
+<img src="Media/IMG_1016.jpeg" width="100%">
+<img src="Media/IMG_1019.jpeg" width="100%">
 
 </td>
 </tr>
