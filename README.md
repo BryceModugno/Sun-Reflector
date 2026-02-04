@@ -81,6 +81,11 @@ This project solves the problem of precisely reflecting sunlight onto a fixed ta
 
 ## Analysis
 [Derived azimuth/elevation equations →](design/derivations.pdf)
+<img src="Media/Derivation_pg1.jpeg" width="100%">
+<img src="Media/Derivation_pg2.jpeg" width="100%">
+<img src="Media/Derivation_pg3.jpeg" width="100%">
+<img src="Media/Derivation_pg4.jpeg" width="100%">
+<img src="Media/Derivation_pg5.jpeg" width="100%">
 
 ## CAD & Simulation
 ![CAD](media/CAD.png)
