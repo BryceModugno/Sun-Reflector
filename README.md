@@ -79,8 +79,7 @@ This project solves the problem of precisely reflecting sunlight onto a fixed ta
 </tr>
 </table>
 
-## Analysis
-[Derived azimuth/elevation equations →](design/derivations.pdf)
+## Derivation of Motor Control
 <img src="Media/Derivation_pg1.jpg" width="100%">
 <img src="Media/Derivation_pg2.jpg" width="100%">
 <img src="Media/Derivation_pg3.jpg" width="100%">
