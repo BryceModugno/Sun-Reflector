@@ -87,7 +87,7 @@ This project solves the problem of precisely reflecting sunlight onto a fixed ta
 <img src="Media/Derivation_pg5.jpg" width="100%">
 
 ## Derivation Computer Model
-Click [here](https://example.com) to view the computer model.
+Click [here](https://www.geogebra.org/3d/xxryhm2j) to view the computer model.
 
 
 ## Manufacturing
