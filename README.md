@@ -86,6 +86,10 @@ This project solves the problem of precisely reflecting sunlight onto a fixed ta
 <img src="Media/Derivation_pg4.jpg" width="100%">
 <img src="Media/Derivation_pg5.jpg" width="100%">
 
+## Derivation Computer Model
+Click [here](https://example.com) to view the computer model.
+
+
 ## Manufacturing
 - 3D printing
 - Manual assembly
