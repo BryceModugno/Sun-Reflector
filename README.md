@@ -86,11 +86,6 @@ This project solves the problem of precisely reflecting sunlight onto a fixed ta
 <img src="Media/Derivation_pg4.jpg" width="100%">
 <img src="Media/Derivation_pg5.jpg" width="100%">
 
-## CAD & Simulation
-![CAD](media/CAD.png)
-
-- NX assembly with motion constraints MAKE ABOVE A LINK TO A 3RD SOURCE ROTABLE 3D MODEL
-
 ## Manufacturing
 - 3D printing
 - Manual assembly
