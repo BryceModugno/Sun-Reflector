@@ -3,7 +3,7 @@ This project solves the problem of precisely reflecting sunlight onto a fixed ta
 
 
 ![Demo animation](Media/FINAL_1.gif)
-![Demo animation](Actual_reflector.gif)
+![Demo animation](Media/Actual_reflector.gif)
 
 
 ## Requirements
