@@ -89,11 +89,3 @@ This project solves the problem of precisely reflecting sunlight onto a fixed ta
 
 ## Derivation Computer Model
 Click [here](https://www.geogebra.org/3d/xxryhm2j) to view the computer model.
-
-
-## Manufacturing
-- 3D printing
-- Manual assembly
-
-## Results
-- Must be physically assembled and tested
