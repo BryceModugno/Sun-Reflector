@@ -4,7 +4,7 @@ This project solves the problem of precisely reflecting sunlight onto a fixed ta
 
 ![Demo animation](Media/FINAL_1.gif)
 ![Demo animation](Media/Actual_reflector.gif)
-<img src="Media/Serial_monitor.jpeg" width="100%">
+<img src="Media/Serial_monitor.jpg" width="100%">
 
 
 ## Requirements
